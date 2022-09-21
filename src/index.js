@@ -29,6 +29,3 @@ ReactDOM.render(
 
   document.getElementById("root")
 );
-
-//domain: dev-6pnxjuwf.us.auth0.com
-//client ID: PRWnzIJqpTsR6oefwwRRgxr5bLlZITLm
