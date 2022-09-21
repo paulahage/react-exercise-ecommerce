@@ -1,22 +1,31 @@
-## Notes
+# Comfy E-Commerce
 
-#### Older React Version
+This is an exercise from John Smilga's course - React Tutorial and Projects Course at ÛDEMY.<br/>
+The project was developed during the course with the main objective of teaching how a complex application is built with React.
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
 
-#### Current React Version
+<br/>
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+⚒️ Technologies used:
 
-#### Alternative fix
+- [JavaScript](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/en/main)
+- [Axios](https://axios-http.com/docs/intro)
+- [Auth0](https://auth0.com/docs)
+- [Stripe.js](https://stripe.com/docs/js)
+- [Netlify](https://www.netlify.com/)
 
-.env file in the root
-FAST_REFRESH=FALSE
+<br/>
+
+🤓 Learning:
+
+- Hooks: useState(), useEffect(),useParams(), useContext(), useReducer(), useHistory()
+- Routes and PrivateRoute
+- Axios to send requests
+- Auth0 for authentication
+
+<br/>
+
+💻 Result:
+[here!](https://react-exercise-comfy-ecommerce.netlify.app/)
