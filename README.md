@@ -29,3 +29,5 @@ The project was developed during the course with the main objective of teaching 
 
 💻 Result:
 [here!](https://react-exercise-comfy-ecommerce.netlify.app/)
+![final_gif2](https://user-images.githubusercontent.com/84124999/196181826-402b3f0a-77b2-4325-9755-d19265a362ad.gif)
+
