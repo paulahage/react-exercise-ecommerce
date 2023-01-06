@@ -22,8 +22,22 @@ The project was developed during the course with the main objective of teaching 
 
 - Hooks: useState(), useEffect(),useParams(), useContext(), useReducer(), useHistory()
 - Routes and PrivateRoute
-- Axios to send requests
+- Axios to fetch external API
 - Auth0 for authentication
+- Stripe to mock payment method
+- Netlify to deploy/host
+
+<br/>
+
+### Running the project:
+
+```
+$ git clone git@github.com:paulahage/react-exercise-ecommerce.git
+$ cd website
+$ npm install
+$ npm start
+```
+- You can check the project at http://localhost:3000/
 
 <br/>
 
